@@ -3,7 +3,7 @@
 A modern, responsive personal portfolio website built to showcase my projects, skills, and experience as a Full Stack Developer.
 
 ## Live Preview
-(Add your deployed link here — Netlify / Vercel / GitHub Pages)
+https://github.com/workonprofession06-prog/web-portfolio.git
 
 ## About the Project
 
