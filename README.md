@@ -78,6 +78,3 @@ Developed a Django-based web system to manage:
 <img width="922" height="546" alt="image" src="https://github.com/user-attachments/assets/ddc336b6-2fdf-4c57-bc72-a363704b9e36" />
 <img width="1012" height="766" alt="image" src="https://github.com/user-attachments/assets/46f8d5d3-c930-49fa-a1ec-64319f8f147f" />
 <img width="1707" height="760" alt="image" src="https://github.com/user-attachments/assets/aa784eac-5653-4c4b-93a0-bff38872d9c1" />
-
-<img width="1619" height="15428" alt="image" src="https://github.com/user-attachments/assets/4fc8acd7-2247-4b7c-bac7-1910c406a42e" />
-
